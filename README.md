@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Israelezekiel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+git clone https://github.com/israelezekiel/Terminal-banner
 
-<!---
-Israelezekiel/Israelezekiel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+cd termux-banner
+
+chmod +x requirement.sh
+
+chmod +x israel.sh
+
+bash requirement.sh
+
+bash israel.sh
+
+
+
